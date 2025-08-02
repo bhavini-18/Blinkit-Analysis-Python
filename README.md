@@ -3,7 +3,7 @@
  It Analyze sales data to uncover insights on product performance, outlet characteristics, and customer preferences using Python.
  
 ## Dataset used
-< a href="https://github.com/bhavini-18/Blinkit-Analysis-Python/blob/main/blinkit_data.csv">/Dataset</a>
+< a href="https://github.com/bhavini-18/Blinkit-Analysis-Python/blob/main/blinkit_data.csv">Dataset</a>
 
 ## Tools Used
 Libraries: pandas, numpy, matplotlib, seaborn
